@@ -1,0 +1,29 @@
+#content{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#homeContainer{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#homeImg{
+    width: 400px;
+}
+
+#myNav{
+    /* border: solid; */
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+
+.navButton{
+    border: solid;
+    padding: 5px;
+}
+
